@@ -1,0 +1,1 @@
+# funimation-downloader-nx
